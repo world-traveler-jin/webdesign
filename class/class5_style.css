@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: arial;
+}
+h3 {
+    color: #555;
+}
+
+p {
+    background-color: blueviolet;
+    color: beige;
+    padding: 10px;
+}
+
+a {
+    color: darkgreen;
+}
+
+.second {
+    background-color: darkkhaki;
+    color: blueviolet;
+}
+
+#special {
+    background-color: aquamarine;
+    color: black;
+}
